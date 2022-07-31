@@ -1,0 +1,42 @@
+#main {
+   background-color:blanchedalmond;
+   border:15px solid blanchedalmond;
+   margin:20px 0px;
+ }
+ .header,#img-div {
+   text-align:center;
+ }
+ .header{
+   padding:10px 0px;  
+ }
+ h1,h2,h4{
+    font-family: 'Source Sans Pro', sans-serif;
+ }
+ img {
+   display:block;
+   margin-top:10px;
+   max-width: 100%;
+   height: auto;
+   margin:auto;
+ }
+ #tribute-info {
+    display:grid;
+    
+ }
+ .caption {
+   font-size:22px;
+   justify-self:center;
+ }
+ 
+ ul {
+   display:grid;
+   row-gap:15px;
+ }
+ span {
+   margin-left:500px;
+ }
+ .footer-content {
+   font-size:23px;
+   
+ }
+ 
